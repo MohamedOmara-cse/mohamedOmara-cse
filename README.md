@@ -1,4 +1,4 @@
-## Hi I'm Mohamed :fox_face: 🏢
+## Hi I'm Mohamed 🏢
 
 I'm a software engineer who is passionate about Software Development technology .
 Some technologies I enjoy working with include VueJS, Docker, and AWS.
